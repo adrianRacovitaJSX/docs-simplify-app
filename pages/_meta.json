@@ -1,15 +1,20 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
-    "type": "page"
-  },
+  "index": "Introducción",
+  "dashboard": "Dashboard",
+  "informes": "Informes",
+  "clientes": "Clientes",
+  "facturacion": "Facturación",
+  "albaranes": "Albaranes",
+  "gastos": "Gastos",
+  "gestion-web": "Gestión Web (WordPress)",
+  "productos": "Productos",
+  "empleados": "Empleados",
+  "ajustes-de-la-aplicacion": "Ajustes de la apliación",
+  "iris": "Iris (Tu IA personal)",
   "contact": {
-    "title": "Contact ↗",
+    "title": "Contacto ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://simplifycrm.es/",
     "newWindow": true
   }
 }
